@@ -8,7 +8,7 @@
 
 ---
 
-## 一、先把“DMA 在干什么”想清楚（这是卡顿的根源）
+## 一、先把“DMA 在干什么”想清楚
 
 你现在脑子里大概率是这种模型：
 
@@ -114,7 +114,7 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
     if (huart->Instance == USART1)
     {
         // uart_rx_buf 里已经是完整数据
-        // 这里处理数据
+        // 可以在这里处理数据
     }
 }
 ```
@@ -124,7 +124,9 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 - 数据已经在你指定的内存
     
 - DMA 已经停了（Normal 模式）
-    
+
+另外讲一嘴，如果是使用RS485通讯但是并没有开启STM32CubeIDE里面的硬件流控制的话，则需要在此接收回调函数中将RS485通信的控制引脚进行反转，以方便数据可以传出去。
+详见RS485通讯
 
 如果你想继续收：
 
