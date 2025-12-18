@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
+                "file": "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MODBUS-RTU"
+              "title": "为什么喜欢使用AA 55作为帧头？"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
+                "file": "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MODBUS-RTU 的大纲"
+              "title": "为什么喜欢使用AA 55作为帧头？ 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdb7d84705e436eb",
+  "active": "b8523878476bdbff",
   "lastOpenFiles": [
+    "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
+    "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
     "ELE_S_P/2_开发板开发文档/STM32/3_STM32_Wiki/STM32中Bits & Byte & Bytes.md",
     "ELE_S_P/0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
     "ELE_S_P/2_开发板开发文档/STM32/1_功能代码介绍及使用/交互部分/LED.md",
@@ -229,8 +231,6 @@
     "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-7 IWDG独立看门狗.md",
     "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-4 CAN.md",
     "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-3 SPI.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-2 IIC.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-1 USART.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6 通信&串口.md"
+    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-2 IIC.md"
   ]
 }
