@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
+                "file": "4_嵌入式硬件/输入去耦以及旁路电容.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么喜欢使用AA 55作为帧头？"
+              "title": "输入去耦以及旁路电容"
             }
           }
         ]
@@ -194,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8523878476bdbff",
+  "active": "bdb7d84705e436eb",
   "lastOpenFiles": [
-    "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
+    "4_嵌入式硬件/弧形走线.md",
+    "4_嵌入式硬件/输入去耦以及旁路电容.md",
+    "0_Wiki/通讯协议/ACK帧是什么？.md",
     "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
+    "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
     "ELE_S_P/2_开发板开发文档/STM32/3_STM32_Wiki/STM32中Bits & Byte & Bytes.md",
     "ELE_S_P/0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
     "ELE_S_P/2_开发板开发文档/STM32/1_功能代码介绍及使用/交互部分/LED.md",
@@ -228,9 +231,6 @@
     "ELE_S_P/2_开发板开发文档/STM32/1_功能代码介绍及使用/通信部分",
     "ELE_S_P/2_开发板开发文档/STM32/1_功能代码介绍及使用",
     "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-8 WWDG窗口看门狗.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-7 IWDG独立看门狗.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-4 CAN.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-3 SPI.md",
-    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-6-2 IIC.md"
+    "ELE_S_P/2_开发板开发文档/STM32/0_硬件模块介绍及使用/1-7 IWDG独立看门狗.md"
   ]
 }
