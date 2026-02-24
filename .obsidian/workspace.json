@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edbe83caeb88860a",
+        "id": "97231ee75fbbb2a6",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb7d84705e436eb",
+            "id": "4883ae80da5e97e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdb7d84705e436eb",
+  "active": "4883ae80da5e97e6",
   "lastOpenFiles": [
+    "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
     "Readme.md",
     "0_Wiki/传感器的分辨率与精度分别怎么界定？.md",
     "0_Wiki/EEPROM.md",
@@ -199,7 +200,6 @@
     "4_嵌入式硬件/输入去耦以及旁路电容.md",
     "4_嵌入式硬件/弧形走线.md",
     "0_Wiki/通讯协议/ACK帧是什么？.md",
-    "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
     "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
     "ELE_S_P/2_开发板开发文档/STM32/3_STM32_Wiki/STM32中Bits & Byte & Bytes.md",
     "ELE_S_P/0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
