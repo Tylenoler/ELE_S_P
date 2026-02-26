@@ -11,10 +11,14 @@
             "id": "4883ae80da5e97e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0_Wiki/传感器的分辨率与精度分别怎么界定？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "传感器的分辨率与精度分别怎么界定？"
             }
           }
         ]
@@ -192,14 +196,14 @@
   },
   "active": "4883ae80da5e97e6",
   "lastOpenFiles": [
+    "0_Wiki/EEPROM.md",
+    "0_Wiki/传感器的分辨率与精度分别怎么界定？.md",
+    "0_Wiki/通讯协议/ACK帧是什么？.md",
     "0_Wiki/通讯协议/为什么喜欢使用AA 55作为帧头？.md",
     "Readme.md",
-    "0_Wiki/传感器的分辨率与精度分别怎么界定？.md",
-    "0_Wiki/EEPROM.md",
     "4_嵌入式硬件/电源/引脚去耦以及滤波电容.md",
     "4_嵌入式硬件/输入去耦以及旁路电容.md",
     "4_嵌入式硬件/弧形走线.md",
-    "0_Wiki/通讯协议/ACK帧是什么？.md",
     "0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
     "ELE_S_P/2_开发板开发文档/STM32/3_STM32_Wiki/STM32中Bits & Byte & Bytes.md",
     "ELE_S_P/0_Wiki/通讯协议/Modbus/MODBUS-RTU.md",
